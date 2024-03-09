@@ -1,0 +1,21 @@
+.friendListItemImage {
+  margin: 0 auto 20px;
+  width: 70px;
+}
+
+.friendListItemTitle {
+  font-size: 28px;
+  text-align: center;
+  font-weight: 500;
+  margin-bottom: 5px;
+}
+
+.friendListItemText {
+  font-size: 24px;
+  color: red;
+  text-align: center;
+}
+
+.friendListItemText.online {
+  color: green;
+}
